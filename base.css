@@ -107,6 +107,7 @@ section {
 }
 body {
   /* Add background-color declaration here */
+       background-color: black;
 }
 ol,
 ul {
@@ -135,9 +136,7 @@ table {
   width: 480px;
 }
 
-body {
-    background-color: black;
-}
+
 /* Give canvas a background */
 canvas {
   background-color: black;
